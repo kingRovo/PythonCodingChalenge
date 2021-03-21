@@ -1,0 +1,9 @@
+n=10
+i=1
+li=[]
+while(n!=0):
+    if(i<10):
+    li.append(i)
+    i=i+1
+    n=n-1
+print(li)

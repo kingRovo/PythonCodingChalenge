@@ -1,0 +1,10 @@
+name=input("Enter your Name:")
+age=int(input("Enter your age:"))
+frnd=input("Enter your friend name")
+print("Name =",name)
+print(age)
+print(frnd)
+print(type(name))
+print(type(age))
+print(type(frnd))
+
